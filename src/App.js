@@ -5,7 +5,7 @@ import NewsCards from './components/NewsCards/NewsCards'
 import useStyles from "./styles"
 import wordsToNumbers from "words-to-numbers"
 
-const alanKey = "4dfb8f8fc12871bb900a56d427eacd492e956eca572e1d8b807a3e2338fdd0dc/stage"
+const alanKey = "API_KEY"
 
 function App() {
 
